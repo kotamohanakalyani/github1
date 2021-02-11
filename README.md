@@ -2,7 +2,7 @@
 github workshop with dharani
 ## basic linux commands
 - pwd
--cd
+-cd path
 -ls
 -ls -a
 - mkdir folder name
@@ -10,6 +10,7 @@ github workshop with dharani
 -rm filename
 -cd ../
 -touch filename
+-cat finename
 -nano filename
 -phython filename
 -clear
